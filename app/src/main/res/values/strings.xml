@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoodFoods</string>
+    <string name="login_error_message">All fields are required</string>
+    <string name="login_message">Welcome </string>
+    <string name="register_success">register success</string>
+    <string name="register_error_message">All fields are required</string>
+    <string name="confriem">ใช้เวลาจัดส่ง 30 นาที</string>
+    <string name="confriem_fail">กรุณาใส่ข้อมูลให้ครบ</string>
+</resources>
